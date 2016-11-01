@@ -7,7 +7,7 @@
     <meta name="keywords" content="">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>HUST | Url Short Service</title>
+    <title>XO2 | Url Short Service</title>
     <!-- Set render engine for 360 browser -->
     <meta name="renderer" content="webkit">
     <!-- No Baidu Siteapp-->
@@ -17,7 +17,7 @@
     <!-- Add to homescreen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="HUST | Url Short Service"/>
+    <meta name="apple-mobile-web-app-title" content="XO2 | Url Short Service"/>
 
     <meta name="msapplication-TileColor" content="#0e90d2">
     <link href="//cdn.bootcss.com/amazeui/2.4.2/css/amazeui.min.css" rel="stylesheet">
@@ -27,8 +27,8 @@
 
 <div class="header">
     <div class="am-g">
-        <h1>HUST</h1>
-        <p>Url Shorten Service<br>基于发号加hash id的短网址服务</p>
+        <h1>XO2</h1>
+        <p>Url Shorten Service<br>基于发号加 hash id 的短网址服务</p>
     </div>
     <hr>
 </div>
@@ -45,7 +45,7 @@
             </div>
         </form>
         <hr>
-        <p>© <?= date('Y') ?> <a href="/" target="_blank">HUST.cc</a> / <a href="/shorten" target="_blank">API</a>. Licensed under MIT license.</p>
+        <p>© <?= date('Y') ?> <a href="/" target="_blank">XO2.cn</a> / <a href="/shorten" target="_blank">API</a>. Licensed under MIT license.</p>
     </div>
 </div>
 
