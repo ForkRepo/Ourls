@@ -45,7 +45,7 @@
             </div>
         </form>
         <hr>
-        <p>© <?= date('Y') ?> <a href="/" target="_blank">XO2.cn</a> / <a href="/shorten" target="_blank">API</a>. Licensed under MIT license. 浙ICP备16036989号-2</p>
+        <p>© <?= date('Y') ?> <a href="/" target="_blank">XO2.cn</a> / Licensed under MIT license. 浙ICP备16036989号-2</p>
     </div>
 </div>
 
