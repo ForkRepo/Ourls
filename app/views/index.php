@@ -28,7 +28,7 @@
 <div class="header">
     <div class="am-g">
         <h1>XO2</h1>
-        <p>Url Shorten Service<br>基于发号加 hash id 的短网址服务</p>
+        <p>Url Shorten Service<br>基于 hash id 的短网址服务</p>
     </div>
     <hr>
 </div>
